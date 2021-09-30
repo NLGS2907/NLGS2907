@@ -8,7 +8,8 @@
 
 # Hi! I'm NLGS!
 
-Also known by my name, **Franco Lighterman Reismann**, and I am a student from the *University of Buenos Aires* following the career of software engineering. As of date, I know few programming languages, but I always excited to learn new ones. Specially the ones with *Object Oriented Programming* (OOP), which I'm very fond of.
+Also known by my name, **Franco Lighterman Reismann**, and I am a student from the *University of Buenos Aires* following the career of software engineering. As of date, I know few programming languages, but I always excited to learn new ones.
+
 Languages I can say I am most comfortable with so far are:
 
 - **Python** 🐍
@@ -34,7 +35,8 @@ It's some kind of cheap *"bullet hell"* [type of game](https://github.com/NLGS29
 # ¡Hola! ¡Yo soy NLGS!
 
 También conocido por mi nombre, **Franco Lighterman Reismann**, y sor un estudiante de la *Universidad de Buenos Aires* siguiendo la carrera de Ingeniería en Informática. Al presente
-momento de escribir esto, no conozco muchos lenguajes de programación, pero siempre busco aprender nuevos. En especial aquellos que cuentan con *Programación Orientada a Objetos* (POO), la cual adoro bastante.
+momento de escribir esto, no conozco muchos lenguajes de programación, pero siempre busco aprender nuevos.
+
 Los lenguajes en los que más cómodo me encuentro actualmente son:
 
 - **Python** 🐍
