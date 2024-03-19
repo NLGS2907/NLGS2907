@@ -2,10 +2,7 @@
 
 Also known by my name, **Franco Lighterman Reismann**, and I am a student from the *University of Buenos Aires* following the career of software engineering. As of date, I know few programming languages, but I always excited to learn new ones.
 
-I love making games and I made some for projects at college. And although I can't share them all, I have a project (currently on a hiatus 😂) for a game written in python using the
-[Gamelib](https://github.com/dessaya/python-gamelib) library (thanks, [Diego](https://github.com/dessaya)!).
-Anyone who has enough free time as me is more than welcome to come and contribute by any means. 🤣
-It's some kind of cheap *"bullet hell"* [type of game](https://github.com/NLGS2907/Star_Slayer-Win). Hope you enjoy my amateur wonderfulness!
+I love making games, extensions and apps and I even made some for projects at college.
 
 ## :bar_chart: Stats
   <br/>
